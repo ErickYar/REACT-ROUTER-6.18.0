@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { Form,useLoaderData } from "react-router-dom";
 import { getContact } from "../contacts";
 
@@ -42,7 +43,7 @@ export default function Contact() {
           <p>
             <a
               target="_blank"
-              href={`https://twitter.com/${contact.twitter}`}
+              href={`https://twitter.com/${contact.twitter}`} rel="noreferrer"
             >
               {contact.twitter}
             </a>
@@ -76,6 +77,7 @@ export default function Contact() {
   );
 }
 
+// eslint-disable-next-line react/prop-types
 function Favorite({ contact }) {
   // yes, this is a `let` for later
   let favorite = contact.favorite;
