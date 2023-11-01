@@ -5,7 +5,7 @@
 
 > Tutoria que se realizo con React y Vite con la version: [React-Router v6.18.0](https://reactrouter.com/en/6.18.0/start/tutorial)
 
-- [Configuración]
+[Configuración]
 - Agregar un enrutador
 - La ruta raíz
 - Manejo de errores no encontrados
