@@ -4,11 +4,6 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Esta plantilla proporciona una configuración mínima para que React funcione en Vite con HMR y algunas reglas de ESLint.
 
-# Documentación:
-
-https://reactrouter.com/en/6.18.0/start/tutorial
-
-
 Currently, two official plugins are available:
 Actualmente, hay dos complementos oficiales disponibles:
 
