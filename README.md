@@ -1,10 +1,9 @@
 <h1 align="center">
-  <p align="center">Docusaurus</p>
+  <p align="center">React + vite </p>
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
 </h1>
 
 
-# React + Vite
 # Version: v6.18.0
  
 - This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
