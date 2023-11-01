@@ -3,7 +3,7 @@
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
 </h1>
 
->** tutoria que se realizo con React y Vite con la version: [React-Router-6-18-0](https://reactrouter.com/en/6.18.0/start/tutorial)** 
+> Tutoria que se realizo con React y Vite con la version: [React-Router-6-18-0](https://reactrouter.com/en/6.18.0/start/tutorial)
 
  
 - This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
